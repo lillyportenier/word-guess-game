@@ -1,0 +1,34 @@
+header{
+    border: 3px solid black;
+    text-align: center;
+    margin: 25px auto;
+    width: 80%;
+    height: 150px;
+
+}
+.dashes {
+    width: 300px;
+    border: 3px solid black;
+    text-align: center;
+    margin: 25px auto;
+    width: 80%;
+    height: 150px;
+    font-size: 100px;
+}
+.rightGuess {
+    width: 300px;
+    border: 3px solid black;
+    text-align: center;
+    margin: 25px auto;
+    width: 80%;
+    height: 150px;
+    font-size: 20px;
+}.wrongGuess {
+    width: 300px;
+    border: 3px solid black;
+    text-align: center;
+    margin: 25px auto;
+    width: 80%;
+    height: 150px;
+    font-size: 20px;
+}
